@@ -2,5 +2,10 @@
 
 ![demo](./img/giphy.gif)
 
-##LINK:
+## LINK:
 https://natanielnat.github.io/glowing-border/
+
+## Technologies Used:
+
+- CSS
+- HTML
